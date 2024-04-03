@@ -2,14 +2,7 @@
 layout: page
 title: 2009年度
 ---
-<a href="/web/20201027011203/https://sites.google.com/site/robomech02/home" dir="ltr">日本機械学会ロボティクス・メカトロニクス部門第1地区技術委員会</a>‎ &gt; ‎
-  </div>
-<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
-<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">2009年度</span>
-</h3>
-<div id="sites-canvas-main" class="sites-canvas-main">
-<div id="sites-canvas-main-content">
-<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><h1><a name="TOC--"></a>ロボティクス・メカトロニクス部門第２地区技術委員会</h1>
+<h1><a name="TOC--"></a>ロボティクス・メカトロニクス部門第２地区技術委員会</h1>
 <div style="text-align:right">
       委員長：新井史人（東北大学），
       副委員長：鏡 慎吾（東北大学），
