@@ -3,13 +3,7 @@ layout: page
 title: 2014年度
 ---
 
-<div>
-    <table class="toc" style="font-size:12px;">
-        <tbody>
-            <tr>
-                <td>
-                    <div style="color:rgb(40,55,105);font-family:Lucida Grande,Lucida Sans Unicode,Arial,sans-serif;font-size:13px;letter-spacing:normal;line-height:20px">
-                        <h1>
+                       <h1>
                             <a name="TOC-1-"></a><br/>
                             ロボティクス・メカトロニクス部門第1地区技術委員会
                         </h1>
@@ -168,8 +162,4 @@ title: 2014年度
                             </div>
                         </h2>
                     </div>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+                
