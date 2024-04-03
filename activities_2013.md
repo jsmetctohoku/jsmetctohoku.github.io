@@ -2,10 +2,6 @@
 layout: page
 title: 2013年度
 ---
----
-layout: page
-title: 2013年度
----
 <h1><a name="TOC-1-"></a>ロボティクス・メカトロニクス部門第1地区技術委員会</h1>
 <div style="text-align:right">
 委員長：村田 智（東北大学），
