@@ -2,7 +2,7 @@
 title:               JSME TC
 tagline:             'ロボティクス・メカトロニクス部門第1地区技術委員会'
 description:         'JSME Technical Committee Division 1 Website/ ロボティクス・メカトロニクス部門第1地区技術委員会Website'
-baseurl:             /website
+baseurl:             
 url:                 http://jsmetctohoku.github.io
 paginate:            5
 permalink:           pretty
