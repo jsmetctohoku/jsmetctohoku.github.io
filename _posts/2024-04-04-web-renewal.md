@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ウェブサイトをリニュアルしました！
+title: Web Renewal!
 ---
 
-弊社ウェブサイトの新バージョンへの移行が完了しました！Google Sitesをベースとした旧サイトがオフラインになった後、私たちは継続性を確保するために積極的な措置を講じました。その結果、JSME TCのすべての活動をこの新しいプラットフォームにシームレスに移行することができました。この移行は、情報の流れを途切れさせないだけでなく、機能性の向上やユーザーエクスペリエンスの改善など、エキサイティングな機会を提供するものです。私たちはこの新しい章に胸を躍らせ、更新されたウェブサイトを通じて、よりダイナミックで効率的な方法で私たちのコミュニティーに参加していただけることを楽しみにしています。
+We're thrilled to announce the successful migration of our website to a new version! After the old site, which was based on Google Sites, went offline, we took proactive steps to ensure continuity. As a result, we've seamlessly migrated all activities of the JSME TC to this new platform. This transition not only ensures the uninterrupted flow of information but also opens up exciting opportunities for enhanced functionality and improved user experience. We're excited about this new chapter and look forward to engaging our community in a more dynamic and efficient manner through our updated website
