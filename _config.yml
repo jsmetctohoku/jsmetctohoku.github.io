@@ -1,7 +1,7 @@
 # Setup
 title:               JSME TC
-tagline:             'ロボメカ部門技術委員会1区'
-description:         'Website for the activities of the JSME TC Division 1 / ロボメカ部門技術委員会1区のウェブサイトです．'
+tagline:             'ロボティクス・メカトロニクス部門第1地区技術委員会'
+description:         'JSME Technical Committee Division 2 Website/ ロボティクス・メカトロニクス部門第1地区技術委員会Website'
 baseurl:             /website
 url:                 http://jsmetctohoku.github.io
 paginate:            5
