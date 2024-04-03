@@ -67,8 +67,5 @@ e-mail: arai(at)ic.is.tohoku.ac.jp
 </div></ul></div></td></tr></tbody></table>
 </div> 
 </div> 
-
 	e-mail: arai(at)ic.is.tohoku.ac.jp 
-      </div></ul></div></td></tr></tbody></table>
-</div> 
-</div> 
+</div></ul>
