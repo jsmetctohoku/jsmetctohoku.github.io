@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We've migrated our web/ウェブサイトをリニュアルしました！
+title: ウェブサイトをリニュアルしました！
 ---
 
-We migrated the Website to a new version! The old one, based on Google Sites, went offline, so we've migrated the activities of the JSME TC to this site. 
+弊社ウェブサイトの新バージョンへの移行が完了しました！Google Sitesをベースとした旧サイトがオフラインになった後、私たちは継続性を確保するために積極的な措置を講じました。その結果、JSME TCのすべての活動をこの新しいプラットフォームにシームレスに移行することができました。この移行は、情報の流れを途切れさせないだけでなく、機能性の向上やユーザーエクスペリエンスの改善など、エキサイティングな機会を提供するものです。私たちはこの新しい章に胸を躍らせ、更新されたウェブサイトを通じて、よりダイナミックで効率的な方法で私たちのコミュニティーに参加していただけることを楽しみにしています。
