@@ -15,7 +15,8 @@ title: 2016年度
 	<li>交通案内: <a href="https://web.archive.org/web/20201027011205/http://www.eng.tohoku.ac.jp/map/?menu=campus&amp;area=a01&amp;build=15" target="_blank" rel="nofollow">地図</a>をご参照下さい。</li>
 	<li>参加費: 無料</li>
 	<li>連絡先: 東北大学 情報科学研究科 山口 光太<br/>
-	Tel: (022)795-7017, kyamagu[at]vision.is.tohoku.ac.jp</li></ul>
+	Tel: (022)795-7017, kyamagu[at]vision.is.tohoku.ac.jp</li>
+</ul>
 	<h4><a name="TOC-1-15:00-16:00-"></a>(1) 15:00～16:00 特徴量子化による画像検索の効率化</h4>
 	<div>講師: <a href="https://web.archive.org/web/20201027011205/http://www.ntt-labs.jp/saiyo/people/updown/ud02.html" target="_blank" rel="nofollow">入江 豪</a>（NTTメディアインテリジェンス研究所）</div>
 	<p>参照画像集合の中から、クエリ画像に関連するものだけを探し出す問題を画像検索と呼ぶ。通常、画像特徴の類似度に基づく検索が行われるが、参照画像が大量にある場合、現実的な時間でこれを終えることが難しくなるため、特徴量子化による効率化が不可欠となる。本講演では、特徴量子化による画像検索の効率化について概説すると共に、我々の取り組みを応用事例を交え紹介したい。</p>
