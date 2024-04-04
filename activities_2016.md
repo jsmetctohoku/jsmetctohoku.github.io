@@ -71,5 +71,5 @@ title: 2016年度
 		〒980-8579 仙台市青葉区荒巻字青葉6-6-01<br/>
 		東北大学大学院情報科学研究科<br/>
 		TEL: 022-795-7017<br/>
-		e-mail: kyamagu(at)vision.is.tohoku.ac.jp 
+		e-mail: kyamagu(at)vision.is.tohoku.ac.jp at
 	</div>
