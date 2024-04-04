@@ -2,7 +2,6 @@
 layout: page
 title: 2019年度
 ---
-
 <h1><a name="TOC-1-"></a>ロボティクス・メカトロニクス部門第1地区技術委員会</h1>
 <p style="text-align:right">委員長: <span style="line-height:1.5;background-color:transparent">佐川 貢一</span><span style="line-height:1.5;font-size:10pt;background-color:transparent"> (弘前大学), </span><span style="background-color:transparent;font-size:10pt;line-height:1.5">副委員長: </span><span style="background-color:transparent">昆陽 雅司 (東北大学)</span><span style="background-color:transparent;font-size:10pt;line-height:1.5">, 幹事: 衣川 潤 (東北大学) </span></p>
 <p style="text-align:right">(2019/12/25更新)</p>
