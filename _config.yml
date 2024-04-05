@@ -6,6 +6,7 @@ baseurl:
 url:                 http://jsmetctohoku.github.io
 paginate:            5
 permalink:           pretty
+categories:          [page, activities]
 
 # About/contact
 author:
