@@ -10,6 +10,13 @@ title: Home
 
 今年度の行事は<a href="{{site.url}}/activities_2019/">こちら</a>
 
+{% for page in site.pages %}
+  {% if page.categories contains 'activities' %}
+    <div class="item">
+      <h3>{{page.title}}</h3>
+    </div>
+  {% endif %}
+{% endfor %}
   
 <br/>
 <div class="posts">
