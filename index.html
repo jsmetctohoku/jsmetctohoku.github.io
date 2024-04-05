@@ -8,15 +8,9 @@ title: Home
 ロボティクス・メカトロニクス部門第1地区技術委員会のウェブサイトへようこそ．こちらで，今年度や過去の行事を調べることができます．
 <br/><br/>
 
-<!--今年度の行事は<a href="{{site.url}}/activities_2019/">こちら</a>-->
+今年度の行事は<a href="{{site.url}}/activities_2019/">こちら</a>
 
-  {% for page in paginator.pages %}
-    <h1 class="post-title">
-      <a href="{{ page.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-   {% endfor %}
+  
 <br/>
 <div class="posts">
   {% for post in paginator.posts %}
