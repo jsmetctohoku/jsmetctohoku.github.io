@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2002年度
+categories: [activities]
 ---
 
 <h1><a name="TOC-2-"></a>ロボティクス・メカトロニクス部門第2地区技術委員会</h1>
