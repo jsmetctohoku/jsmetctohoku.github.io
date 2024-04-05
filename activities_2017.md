@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2017年度
+categories: [activities]
 ---
 
 # ロボティクス・メカトロニクス部門第1地区技術委員会
