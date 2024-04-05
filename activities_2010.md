@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2010年度
+categories: [activities]
 ---
 <h1><a name="TOC--"></a>ロボティクス・メカトロニクス部門第２地区技術委員会</h1>
 <div style="text-align:right">
