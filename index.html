@@ -9,17 +9,13 @@ title: Home
 <br/><br/>
 
 <!--今年度の行事は<a href="{{site.url}}/activities_2019/">こちら</a-->
-
-{% for page in site.pages reversed %}
 <div class="item">
+{% for page in site.pages reversed %}
   {% if page.categories contains 'activities' %}
-    
       <a href="{{site.url}}{{page.url}}">{{page.title}}</a> | 
-    
   {% endif %}
-</div>
 {% endfor %}
-  
+</div>  
 <br/>
 <!--div class="posts">
   {% for post in paginator.posts %}
