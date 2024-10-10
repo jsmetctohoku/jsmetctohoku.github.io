@@ -14,10 +14,10 @@ categories: [activities]
 
 ### 東北地区特別講演会「国境を越えたロボティクス： 日本とヨーロッパにおけるラテンアメリカ人のロボット工学への貢献」
 
-- URL	https://jsmetctohoku.github.io/
-- 企画	ロボティクス・メカトロニクス部門 第1地区技術委員会
-- 開催日	2024年11月19日（火）　10:00～12:00
-- 会場	東北大学大学院工学研究科機械・知能系共同棟6階会議室（仙台市青葉区荒巻字青葉6-6-01）http://www.eng.tohoku.ac.jp/map/?menu=campus&area=a01&build=15
+- **URL:**	https://jsmetctohoku.github.io/
+- **企画:**	ロボティクス・メカトロニクス部門 第1地区技術委員会
+- **開催日:**	2024年11月19日（火）　10:00～12:00
+- **会場:**	東北大学大学院工学研究科機械・知能系共同棟6階会議室（仙台市青葉区荒巻字青葉6-6-01）http://www.eng.tohoku.ac.jp/map/?menu=campus&area=a01&build=15
 
 ## プログラム
 
@@ -37,9 +37,9 @@ International robotics competitions bring together the research community to sol
 
 In this lecture, Prof. Solis will present a new project that deals with the development of intelligent control systems for greenhouse lighting with a high proportion of local renewable energy. The project will develop an intelligent control system to optimize the operation of lighting systems in greenhouses with a high proportion of local renewable energy using adaptive control methods, Artificial Intelligence (AI) algorithms and optimization of built-in lighting control. Through this, lighting systems will be optimized, energy consumption will be minimized and the lighting system will be adapted to be able to handle a larger amount of local renewable energy production.
 
-- 参加費	無料
-- 申込方法	申し込みは不要です．当日お気軽にお越しください．
-- 問合わせ先	Salazar Luces Jose Victorio　/　電話(022)795-6942
-- Email: j.salazar@srd.mech.tohoku.ac.jp
+- **参加費:**	無料
+- **申込方法:**	申し込みは不要です．当日お気軽にお越しください．
+- **問合わせ先:**	Salazar Luces Jose Victorio　/　電話(022)795-6942
+- **Email:** j.salazar@srd.mech.tohoku.ac.jp
 
 ---
