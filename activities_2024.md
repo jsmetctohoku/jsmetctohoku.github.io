@@ -38,5 +38,3 @@ In this lecture, Prof. Solis will present a new project that deals with the deve
 申込方法	申し込みは不要です．当日お気軽にお越しください．
 問合わせ先	Salazar Luces Jose Victorio　/　電話(022)795-6942
 		Email: j.salazar@srd.mech.tohoku.ac.jp
-
-![image](https://github.com/user-attachments/assets/cc576d6f-f70e-464c-a0dd-ddfe397da998)
